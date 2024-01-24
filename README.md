@@ -2,6 +2,10 @@
 
 A 2D game where we build a city with cards. Build the best city with unlimited cards.
 
+## PLAY GAME
+
+https://melih-kir.itch.io/cardopolis
+
 ## Customized Card System
 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
