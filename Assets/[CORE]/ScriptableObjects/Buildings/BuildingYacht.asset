@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9ac1ed22615384fb93b32a5d287cc6, type: 3}
+  m_Name: BuildingYacht
+  m_EditorClassIdentifier: 
+  id: 12
+  buildingName: Yacht
+  buildingSprite: {fileID: 21300000, guid: 7e7152e737f5ea348bce3a9c306dae7a, type: 3}
+  size: 02000000030000000400000001000000
+  goldCost: 11
+  gemCost: 11
+  cooldownProduction: 10
+  goldProduction: 2
+  gemProduction: 2
+  prefab: {fileID: 5530983958913773531, guid: 815e9eaa6a5836140abfc0eadcdf31cb, type: 3}
